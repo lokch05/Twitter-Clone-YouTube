@@ -1,5 +1,7 @@
 {
+  "name":"Twitter-Clone-YouTube",
   "private": true,
+  "main": "index.tsx",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
